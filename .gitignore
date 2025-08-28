@@ -1,0 +1,59 @@
+# -------------------------
+# Quarto / knitr artifacts
+# -------------------------
+*_cache/
+_freeze/
+*.nb.html
+*.utf8.md
+*.qmd
+
+# -------------------------
+# RStudio junk files
+# -------------------------
+.Rhistory
+.RData
+*.Rproj
+.Rproj.user/
+
+# -------------------------
+# R environment & config
+# -------------------------
+.Renviron
+.Rprofile
+
+# -------------------------
+# R package managers
+# -------------------------
+renv/library/
+renv/staging/
+packrat/
+
+# -------------------------
+# OS clutter
+# -------------------------
+.DS_Store
+
+# -------------------------
+# Logs / misc
+# -------------------------
+*.log
+*.out
+*.Rout
+
+# -------------------------
+# Quarto build metadata
+# -------------------------
+/.quarto/
+.quarto-preview/
+
+# -------------------------
+# Ignore Quarto-rendered README artifacts
+# -------------------------
+README.html
+README_files/
+
+# -------------------------
+# Ignore compiled manuscript exports
+# -------------------------
+*.pdf
+*.docx
