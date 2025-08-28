@@ -70,12 +70,6 @@ This project applies **survival modeling techniques** to evaluate a composite *I
 
 ---
 
-## 📄 Deliverables
-
-- `breastcancer.html` → published as [**index.html**](index.html) for GitHub Pages  
-- `breastcancer_files/` — Generated figures and tables  
----
-
 ## 🔑 Code Availability
 
 The full R/Quarto source code for this analysis is **available upon request**.  
