@@ -1,0 +1,29 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Mark generated site assets
+docs/**                   linguist-generated
+docs/site_libs/**         linguist-generated
+docs/**.html              linguist-generated
+README_files/**           linguist-generated
+
+# Treat binaries as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg  binary
+*.pdf  binary
+*.docx binary
+*.pptx binary
+*.xlsx binary
+
+# Don’t show noisy diffs
+*.min.js -diff
+*.min.css -diff
+docs/site_libs/** -diff
+
+# Make sure R/Quarto are recognized as code
+*.R    linguist-language=R
+*.r    linguist-language=R
+*.qmd  linguist-language=R
