@@ -1,6 +1,6 @@
 # 🩺 Breast Cancer Prognostic Index Evaluation
 
-This project applies **survival modeling techniques** to evaluate a composite *In-Vitro Diagnostic* (IVD) index for breast cancer prognosis. Using a **simulated cohort of 494 patients**, it replicates the workflow of an IVD validation study — from **data generation** and **Cox modeling** to **discrimination, calibration, and laboratory reproducibility** analyses. The pipeline is fully reproducible in **R + Quarto** and outputs a manuscript-ready HTML report.
+This project applies **survival modeling techniques** to evaluate a composite *In-Vitro Diagnostic* (IVD) index for breast cancer prognosis. Using a **simulated cohort of 494 patients**, it replicates the workflow of an IVD validation study — from **data generation** and **Cox modeling** to **discrimination, calibration, and laboratory reproducibility** analyses.
 
 ---
 
