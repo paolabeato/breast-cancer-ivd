@@ -10,7 +10,7 @@ This project applies **survival modeling techniques** to evaluate a composite *I
 - **Outcome**: 5-year disease-free survival (DFS)  
 - **Tools**: R, Quarto, `survival`, `riskRegression`, `timeROC`, `broom`, `gt`, `ggplot2`, `lme4`, `binom`  
 - **Deliverable**: Manuscript-style Quarto HTML report  
-- **Manuscript**: [📄 View the full manuscript here](https://github.com/paolabeato/breast-cancer-ivd/blob/main/docs/index.html)  
+- **Manuscript**: [📄 View the full manuscript here](https://paolabeato.github.io/breast-cancer-ivd/)  
 
 ---
 
